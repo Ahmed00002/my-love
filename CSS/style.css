@@ -1,37 +1,37 @@
-body{
-    background-color: #FFF3F3 ;
+body {
+  background-color: #fff3f3;
 }
 
-#image{
-    width: 10rem;
-    height: 10rem;
-    cursor: pointer;
-    transition: .5s ease-in-out;
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
+#image {
+  width: 10rem;
+  height: 10rem;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 
-p{
-    font-family: playwrite it moderna;
-    font-size: 1.5rem;
-    color: #F9595F;
-    transition: .5s ease-in-out;
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
+p {
+  font-family: playwrite it moderna;
+  font-size: 1.5rem;
+  color: #f9595f;
+  transition: 0.5s ease-in-out;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 
-@media screen and (max-width: 900px){
-    p{
+@media screen and (max-width: 900px) {
+  p {
     position: absolute;
-    top: 60%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
-    transition: .5s;
-    }
+    transition: 0.5s;
+  }
 }
