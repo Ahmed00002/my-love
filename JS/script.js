@@ -7,7 +7,7 @@ const images = [
   },
   {
     src: "Assets/love_white.svg",
-    text: "Do You know who r u? You are my one and only love. I really fallen love with you. Just keep me in your heart. I don't care how you looks like. I just wanna make you mine forever. I love you Fatu😊😚",
+    text: "Do You know who r u? You are my one and only love. I really fallen love with you. Just keep me in your heart. I just wanna make you mine forever. I love you Fatu😊😚",
     background: "#F9595F",
     textColor: "#FFF3F3",
   },
